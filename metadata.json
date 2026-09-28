@@ -1,0 +1,7 @@
+{
+  "name": "CinePulse - Movie Booking & Entertainment",
+  "description": "Book movie tickets instantly with seamless Razorpay payments, interactive seat selection, and AI movie recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
